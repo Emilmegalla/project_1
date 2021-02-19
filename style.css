@@ -8,7 +8,8 @@ section {
 }
 
 .group1, .group2, .group3 {
-    display: inline-block
+    display: inline-block; 
+    vertical-align: top;
 }
 .one, .two, .three {
     border: 1px solid black;

@@ -113,6 +113,7 @@ function  playerMove(event) {
         console.log('player o is the winner') //3,5,7 -o//
     } else if (moveCount >= 10) {
         console.log('Player x and player o are draw')
+        document.querySelector('p').textContent = 'both player draw'
         
     }
 };
