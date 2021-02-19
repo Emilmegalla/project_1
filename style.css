@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+}
+
+section {
+    width: 80%;
+    margin: 220px 600px;
+}
+
+.group1, .group2, .group3 {
+    display: inline-block
+}
+.one, .two, .three {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+  
+}
+
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    
+}
